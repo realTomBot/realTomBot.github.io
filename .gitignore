@@ -1,0 +1,6 @@
+# Hide everything at root except portfolio/ and public files
+/*
+!/.gitignore
+!/index.html
+!/portfolio/
+!/README.md
